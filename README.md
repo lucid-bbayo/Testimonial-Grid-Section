@@ -25,6 +25,7 @@ Users should be able to:
 ### Screenshot
 
 ![Screenshot 2022-09-06 at 08-43-30 Frontend Mentor  Challenge Name Here](https://user-images.githubusercontent.com/106781345/188581704-95c61b44-5421-4e81-ad20-39b1045fe8a9.png)
+![Screenshot 2022-09-06 at 08-41-53 Frontend Mentor  Challenge Name Here](https://user-images.githubusercontent.com/106781345/188582923-d85bd681-a980-4b7b-9eec-f4a0166407f5.png)
 
 ### Links
 
