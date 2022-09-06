@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot 2022-09-06 at 08-43-30 Frontend Mentor  Challenge Name Here](https://user-images.githubusercontent.com/106781345/188581704-95c61b44-5421-4e81-ad20-39b1045fe8a9.png)
 
 ### Links
 
